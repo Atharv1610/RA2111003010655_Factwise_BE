@@ -1,2 +1,2 @@
 # RA2111003010655_Factwise_BE
-This repository contains solutions to two coding problems provided by the Factwise as part of their recruitment process.
+This repository contains solutions to two coding problems provided by Factwise as part of their recruitment process.
